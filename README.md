@@ -116,4 +116,4 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 
 ## Dashboard Preview
 
-Example: ![Quick Commerce Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Q-Commerce_Dashboad_Snapshot.png)
+Example: ![Quick Commerce Dashboard](https://github.com/Adityapawar1117/Quick-Commerce-DashBoard/blob/main/Dashboard%20Photo.png)
