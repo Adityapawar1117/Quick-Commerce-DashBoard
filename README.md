@@ -130,4 +130,4 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 
 ## 📸 Dashboard Preview
 
-![Quick Commerce Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Q-Commerce_Dashboad_Snapshot.png))
+Example: ![Quick Commerce Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Q-Commerce_Dashboad_Snapshot.png))
