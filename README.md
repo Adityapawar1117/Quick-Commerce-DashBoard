@@ -1,16 +1,14 @@
-# ⚡ Quick Commerce Dashboard — Indian Q-Commerce Market Insights
+# Quick Commerce Dashboard — Indian Q-Commerce Market Insights
 
 > An interactive Power BI dashboard designed to analyze and compare India's top quick commerce platforms — Blinkit, Zepto, Swiggy Instamart, Bigbasket, and Dunzo Daily — across market share, warehouse count, delivery speed, userbase, and payment behavior.
 
----
 
-## 📌 Purpose
+## Purpose
 
 The Indian quick commerce industry is one of the fastest-growing sectors, yet comparing platforms across operational and user metrics is rarely done in one place. This dashboard consolidates competitive intelligence across 5 major Q-commerce brands — enabling business analysts, startup strategists, and investors to understand platform positioning, delivery efficiency, and consumer payment patterns at a glance.
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Usage |
 |------|-------|
@@ -20,16 +18,14 @@ The Indian quick commerce industry is one of the fastest-growing sectors, yet co
 | Data Modeling | Table relationships & aggregations |
 | .pbix / .png | Development & preview formats |
 
----
 
-## 📂 Data Source
+## Data Source
 
 **Kaggle — Quick Commerce / Indian Q-Commerce Dataset**  
 Covers 5 major platforms with fields on warehouse counts, delivery times, market share, monthly orders, userbase size (in millions), and payment method distribution.
 
----
 
-## 📊 Key KPIs
+## Key KPIs
 
 | Metric | Value |
 |--------|-------|
@@ -40,9 +36,8 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 | COD Payment Share | 37% |
 | Brands Tracked | 5 |
 
----
 
-## 🖼️ Key Visuals
+## Key Visuals
 
 - **No. of Warehouses** — Column chart: Blinkit leads with ~1,500 warehouses
 - **Payment Mode Split** — Donut chart: COD (37%), UPI (22%), Debit (17%), Credit (12%), EMI (12%)
@@ -51,32 +46,28 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 - **Market Share** — Donut chart: Blinkit 43%, Zepto 26%, Swiggy Instamart 23%, Dunzo 6%
 - **Userbase by Brand** — Horizontal bar: Zepto leads (~40M), Blinkit second (~33M)
 
----
 
-## 💡 Business Impact & Insights
+## Business Impact & Insights
 
 - **Competitive benchmarking:** Blinkit leads in market share & warehouses, but Zepto leads in users — gap between reach and conversion
 - **Payment strategy:** COD at 37% signals room to push digital payment incentives
 - **Delivery optimization:** Delivery time comparisons highlight which platform best delivers on Q-commerce's core promise of speed
 - **Seasonal trends:** Orders peak in October, dip in July — useful for festive season inventory planning
 
----
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Quick Commerce Dashboard](# ⚡ Quick Commerce Dashboard — Indian Q-Commerce Market Insights
 
 > An interactive Power BI dashboard designed to analyze and compare India's top quick commerce platforms — Blinkit, Zepto, Swiggy Instamart, Bigbasket, and Dunzo Daily — across market share, warehouse count, delivery speed, userbase, and payment behavior.
 
----
 
-## 📌 Purpose
+## Purpose
 
 The Indian quick commerce industry is one of the fastest-growing sectors, yet comparing platforms across operational and user metrics is rarely done in one place. This dashboard consolidates competitive intelligence across 5 major Q-commerce brands — enabling business analysts, startup strategists, and investors to understand platform positioning, delivery efficiency, and consumer payment patterns at a glance.
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Usage |
 |------|-------|
@@ -86,16 +77,14 @@ The Indian quick commerce industry is one of the fastest-growing sectors, yet co
 | Data Modeling | Table relationships & aggregations |
 | .pbix / .png | Development & preview formats |
 
----
 
-## 📂 Data Source
+## Data Source
 
 **Kaggle — Quick Commerce / Indian Q-Commerce Dataset**  
 Covers 5 major platforms with fields on warehouse counts, delivery times, market share, monthly orders, userbase size (in millions), and payment method distribution.
 
----
 
-## 📊 Key KPIs
+## Key KPIs
 
 | Metric | Value |
 |--------|-------|
@@ -106,9 +95,8 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 | COD Payment Share | 37% |
 | Brands Tracked | 5 |
 
----
 
-## 🖼️ Key Visuals
+## Key Visuals
 
 - **No. of Warehouses** — Column chart: Blinkit leads with ~1,500 warehouses
 - **Payment Mode Split** — Donut chart: COD (37%), UPI (22%), Debit (17%), Credit (12%), EMI (12%)
@@ -117,17 +105,15 @@ Covers 5 major platforms with fields on warehouse counts, delivery times, market
 - **Market Share** — Donut chart: Blinkit 43%, Zepto 26%, Swiggy Instamart 23%, Dunzo 6%
 - **Userbase by Brand** — Horizontal bar: Zepto leads (~40M), Blinkit second (~33M)
 
----
 
-## 💡 Business Impact & Insights
+## Business Impact & Insights
 
 - **Competitive benchmarking:** Blinkit leads in market share & warehouses, but Zepto leads in users — gap between reach and conversion
 - **Payment strategy:** COD at 37% signals room to push digital payment incentives
 - **Delivery optimization:** Delivery time comparisons highlight which platform best delivers on Q-commerce's core promise of speed
 - **Seasonal trends:** Orders peak in October, dip in July — useful for festive season inventory planning
 
----
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-Example: ![Quick Commerce Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Q-Commerce_Dashboad_Snapshot.png))
+Example: ![Quick Commerce Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Q-Commerce_Dashboad_Snapshot.png)
